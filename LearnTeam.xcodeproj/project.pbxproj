@@ -1,0 +1,98 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXFileReference section */
+		FD0FD44A28CF848C00C2861B /* Lec-1-4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Lec-1-4.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FD15BED828C4C928006B5B59 /* LEC-16-19.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "LEC-16-19.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FDE7966728B3B29E0017AAEC /* Lec-1-4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Lec-1-4.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FDE7966828B3B29F0017AAEC /* Lec-5-9.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Lec-5-9.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FDE7966928B3B29F0017AAEC /* Lec-10-15.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Lec-10-15.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		FD0FD44928CF83D700C2861B /* Dp */ = {
+			isa = PBXGroup;
+			children = (
+				FD0FD44A28CF848C00C2861B /* Lec-1-4.playground */,
+			);
+			path = Dp;
+			sourceTree = "<group>";
+		};
+		FDED2F2928A7DCB300040927 = {
+			isa = PBXGroup;
+			children = (
+				FD0FD44928CF83D700C2861B /* Dp */,
+				FDED2F3028A7DCBC00040927 /* Recursion */,
+			);
+			sourceTree = "<group>";
+		};
+		FDED2F3028A7DCBC00040927 /* Recursion */ = {
+			isa = PBXGroup;
+			children = (
+				FDE7966728B3B29E0017AAEC /* Lec-1-4.playground */,
+				FDE7966828B3B29F0017AAEC /* Lec-5-9.playground */,
+				FDE7966928B3B29F0017AAEC /* Lec-10-15.playground */,
+				FD15BED828C4C928006B5B59 /* LEC-16-19.playground */,
+			);
+			path = Recursion;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		FDED2F2A28A7DCB300040927 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1340;
+			};
+			buildConfigurationList = FDED2F2D28A7DCB300040927 /* Build configuration list for PBXProject "LearnTeam" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FDED2F2928A7DCB300040927;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		FDED2F2E28A7DCB300040927 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		FDED2F2F28A7DCB300040927 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FDED2F2D28A7DCB300040927 /* Build configuration list for PBXProject "LearnTeam" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FDED2F2E28A7DCB300040927 /* Debug */,
+				FDED2F2F28A7DCB300040927 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FDED2F2A28A7DCB300040927 /* Project object */;
+}
